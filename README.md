@@ -13,6 +13,12 @@ The goal of this lab was to simulate a real life scenerio that resembled what it
 <br/>
 <br/>
 
+<h2>Utilities Used</h2>
+
+- Microsoft Azure
+
+<br/>
+
 <h2>Program Walk Through</h2>
 I created a resource group to house the lab, a virtual network to allow the VM to connect to the public network, the VM itself, and the logging space using Sentinel and Log Analytics Workspace (Disregard gio-vmlab and TEST-2-group).
 
