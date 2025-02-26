@@ -68,7 +68,7 @@ proof of log acquisition (this is a photo of what it looked like as I was recrea
 <br/>
 <br/>
 
-Finally, I created a workbook and pasted a JSON file that was designed to present the data in a map format. I used a query within the log viewer to connect the map and the logs coming in (this is the data that was saved from my first attempt that better respresents what it should look like).
+Finally, I created a workbook and copy and pasted a JSON file that was designed to present the data in a map format. I used a query within the log viewer to connect the map and the logs coming in (this is the data that was saved from my first attempt that better respresents what it should look like).
 
 <p align="center">
 <img src="https://i.imgur.com/wj9aHXa.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
